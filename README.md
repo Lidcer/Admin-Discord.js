@@ -40,7 +40,7 @@ client.login(BOT_TOKEN).catch(console.error);
 
 Before you start manipulating with guild you have to first set guild by following command<br/>`<prefix> guild set <id/name>`<br/>
 Same as set but this one is going to select that guild that you are currently typing in<br/>`<prefix> guild this`<br/>
-Gives you all possible information about the guild <br/>`<prefix> guild set <id/name>`
+Gives you all possible information about the guild <br/>`<prefix> guild set <id/name>`<br/>
 Gives you all members of the guild <br/>`<prefix> guild set members`<br/>
 Gives you all you all roles of the guild <br/>`<prefix> guild roles`<br/>
 Gives you all you all emojis of the guild <br/>`<prefix> guild emoji`<br/>
